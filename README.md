@@ -1,4 +1,5 @@
 #How to squash all commits in single commit
+
 git branch backup
 git pull
 git rebase origin/master
